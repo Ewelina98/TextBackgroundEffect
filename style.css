@@ -1,0 +1,39 @@
+*
+{margin: 0;
+padding: 0;
+}
+.Text1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
+
+.Text2 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/ZcdJJvDqTgdGZK8Xd3/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
+
+.Text3 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/Sw6IbrKiEklZDVgQaq/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
